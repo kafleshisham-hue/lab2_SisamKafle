@@ -1,0 +1,8 @@
+print("Hii how are you doing today?")
+print("I am doing good, thank you for asking!")
+print("What are your plans for the day?")
+print("I plan to go for a walk and read a book.")
+print("That sounds like a great plan! Enjoy your day!")
+print("Testing")
+print("Testing 2")
+print("Hii how are you doing")
