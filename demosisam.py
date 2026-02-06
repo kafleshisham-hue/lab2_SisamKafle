@@ -1,0 +1,3 @@
+print("Hii how are you doing today?")
+print("I am doing good, thank you for asking!")
+print("What are your plans for the day?")
